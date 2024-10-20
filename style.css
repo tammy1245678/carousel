@@ -1,0 +1,8 @@
+body {
+    position: relative;
+}
+p {
+    font-size: 18px;
+}
+  #section1 {padding-top:50px;height:500px;color: white; background-color: orange;}
+  #section2 {padding-top:50px;height:500px;color: green; background-color: white;}
